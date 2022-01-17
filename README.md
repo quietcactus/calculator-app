@@ -1,15 +1,13 @@
 # Simple 4 operator calculator app
 
+Put together primarily using useReducer to handle most of the calculator actions
+
 ## Calculator Functionality
 
 1. Handles addition, subtraction, multiplication, and division
 2. Working Clear button
 3. Rounds to 3 decimal places when needed
 4. No typing, buttons must be clicked
-
-## Features
-
-Put together primarily using useReducer to handle most of the calculator actions
 
 ## Planned Updates
 
