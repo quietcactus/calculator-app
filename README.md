@@ -13,6 +13,6 @@ Put together primarily using useReducer to handle most of the calculator actions
 
 ## Planned Updates
 
-- [] After hitting "=" and pressing a key, the calculator should start over, and not add the digit to the previous result
-- [] Handle character limits
-- [] Clean up code where possible
+- [ ] After hitting "=" and pressing a key, the calculator should start over, and not add the digit to the previous result
+- [ ] Handle character limits
+- [ ] Clean up code where possible
