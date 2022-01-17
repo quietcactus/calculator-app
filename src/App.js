@@ -55,7 +55,7 @@ const calculationReducer = (calculations, action) => {
 function App() {
 
   const [calculations, dispatchCalculations] = useReducer(calculationReducer, {
-    currentValue: '0',
+    currentValue: '',
     savedValue: '0',
     result: '0',
     operator: '+',
