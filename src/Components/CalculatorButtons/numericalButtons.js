@@ -1,5 +1,5 @@
 import React from 'react'
-import { actions } from '../../App';
+// import { actions } from '../calculator';
 
 const numberButtons = [
   ['nine', 9],

@@ -1,5 +1,5 @@
-import React from 'react'
-import { actions } from '../../App'
+import React, { useContext } from 'react'
+// import { actions } from '../calculator';
 
 export default function ClearButton({ dispatchCalculations} ) {
   return (
